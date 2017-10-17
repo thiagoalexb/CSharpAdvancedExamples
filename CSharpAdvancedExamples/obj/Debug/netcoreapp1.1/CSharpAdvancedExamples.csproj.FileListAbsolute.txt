@@ -1,0 +1,9 @@
+C:\Users\thiag\documents\visual studio 2017\Projects\CSharpAdvancedExamples\CSharpAdvancedExamples\bin\Debug\netcoreapp1.1\CSharpAdvancedExamples.deps.json
+C:\Users\thiag\documents\visual studio 2017\Projects\CSharpAdvancedExamples\CSharpAdvancedExamples\bin\Debug\netcoreapp1.1\CSharpAdvancedExamples.runtimeconfig.json
+C:\Users\thiag\documents\visual studio 2017\Projects\CSharpAdvancedExamples\CSharpAdvancedExamples\bin\Debug\netcoreapp1.1\CSharpAdvancedExamples.runtimeconfig.dev.json
+C:\Users\thiag\documents\visual studio 2017\Projects\CSharpAdvancedExamples\CSharpAdvancedExamples\obj\Debug\netcoreapp1.1\CSharpAdvancedExamples.csprojResolveAssemblyReference.cache
+C:\Users\thiag\documents\visual studio 2017\Projects\CSharpAdvancedExamples\CSharpAdvancedExamples\obj\Debug\netcoreapp1.1\CSharpAdvancedExamples.AssemblyInfo.cs
+C:\Users\thiag\documents\visual studio 2017\Projects\CSharpAdvancedExamples\CSharpAdvancedExamples\bin\Debug\netcoreapp1.1\CSharpAdvancedExamples.dll
+C:\Users\thiag\documents\visual studio 2017\Projects\CSharpAdvancedExamples\CSharpAdvancedExamples\bin\Debug\netcoreapp1.1\CSharpAdvancedExamples.pdb
+C:\Users\thiag\documents\visual studio 2017\Projects\CSharpAdvancedExamples\CSharpAdvancedExamples\obj\Debug\netcoreapp1.1\CSharpAdvancedExamples.dll
+C:\Users\thiag\documents\visual studio 2017\Projects\CSharpAdvancedExamples\CSharpAdvancedExamples\obj\Debug\netcoreapp1.1\CSharpAdvancedExamples.pdb
