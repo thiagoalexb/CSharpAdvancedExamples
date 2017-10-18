@@ -28,6 +28,12 @@ namespace CSharpAdvancedExamples
 
             videoEncoder.Encode(video);
 
+            var ext = new Extensions.Extensions();
+            ext.UsageExtensions();
+
+            var async = new Asynchronous.Asynchronous();
+            Console.WriteLine(async.DownloadHtml().Result);
+
             Console.Read();
         }
     }
